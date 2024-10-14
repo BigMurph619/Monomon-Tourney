@@ -31,8 +31,8 @@ Your first 5 runs past Brock will be added together to get your cumulative score
 | Full Clear Hideout        |
 | Tower Rival               |
 | Rescue Fuji               |
-| Full Clear Tower          |
 | Erika                     |
+| Full Clear Tower          |
 | Enter Safari Zone         |
 | Koga                      |
 | Dojo                      |
