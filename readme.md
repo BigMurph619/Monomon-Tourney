@@ -22,10 +22,10 @@ Your first 5 runs past Brock will be added together to get your cumulative score
 | Rescue Bill               |
 | Misty                     | 
 | Clear Pre-Boat Routes     |
-| Boat Rival                |
+| Beat Boat Rival           |
 | Full Clear Boat           |
 | Lt. Surge                 |
-| Rock Tunnel               |
+| Leave Rock Tunnel         |
 | Full Clear Tunnel         |
 | Gio Hideout               |
 | Full Clear Hideout        |
