@@ -52,6 +52,7 @@ Your 3 highest scoring runs will be added together to get your cumulative score.
 
 | fastest mach bike time (3 tries each run) 
 | Best Base
+| I spy with my little eye, a lone hiker that's gone awry. Clip it and send it and you'll earn a point! |
 
      38 Points available per run
 
