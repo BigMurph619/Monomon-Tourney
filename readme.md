@@ -48,7 +48,7 @@ Your 3 highest scoring runs will be added together to get your cumulative score.
 | Wallace (3)               |
 | Steven (5)                |
 
-##Bonus Points
+## Bonus Points
 
 | Any Pokemon that is 420 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 420 BST it will resume receiving standard points. |
 
