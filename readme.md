@@ -50,10 +50,11 @@ Your 3 highest scoring runs will be added together to get your cumulative score.
 
 Bonus Points
 
+| Any Pokemon that is 420 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 420 BST it will resume receiving standard points.
 | Fastest mach bike time (3 tries each run). Each run that makes it to cycling road will give you 3 tries to record your best time on the Mach Bike. Must be done at %100 speed. No practice runs, no redos. As you update your scores, update your best OVERALL time (from all runs, not each run). At the end of the tourney, whoever has the fastest time (confirmed with a clip) will earn 3 bonus tourney points.
 | Riddle me this: I spy with my little eye, a lone hiker that's gone awry. Clip it and send it to me on discord and you'll earn a point! All competitors are eligible for this 1 additional point to their TOTAL score. NO HINTS! |
 
-     45 Points available per run plus 4 overall bonus points available
+     45 Standard Points available per run plus 4 overall bonus points available
 -Treat Cycling Road as a Dungeon the first time you enter. If you defeat all 6 trainers (INCLUDING THE PSYCHIC UNDERNEATH [in the trees by New Mauville]) you will earn 1 tourney point. You may still return to cycling road to defeat trainers and/or do your mach bike race times if you elect to leave to heal, etc. prior to defeating all trainers.
 
 
@@ -61,6 +62,7 @@ Bonus Points
 
 Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the Murphverse and will earn badges in the MurphMob discord. Additionally, there will be a bits "Pool". Award pool entrants are required to donate 500 bits to BigMurph619's channel to enter. Every 500 bits donated to my channel will add 300 bits (Murph Tax plus twitch tax) to the pool (viewers included) to be distributed out the Top 3 finishers. Example: if there are 10,000 bits donated, there will be 6,000 bits in the "Pool". Distributions will be 1st: 50%, 2nd: 30%, 3rd: 20%. Example: Pool of 6k... 1st: 3,000 bits, 2nd: 1800 bits, 3rd: 600 bits.
 
+Goodluck Challenger.
 
 ## Monomon
 
