@@ -4,9 +4,7 @@
 
 ## Tourney
 
-This tournament is scored by cumulative points. Your first 3 highest scoring runs will be added together to get your cumulative score. (Add rule to prevent throwing?)
-Seeds must be done AND completed Dec 6 - Dec 23 (Midnight PST USA) Limit is 200 seeds
-Must be live and have VOD.
+This tournament is scored by cumulative points. Your first 3 highest scoring runs will be added together to get your cumulative score. Seeds must be started AND completed Dec 6 - Dec 23 (Midnight PST USA) Limit is 200 seeds. Tourney Seeds must be live and have VOD.
 
 Cost of entry: 500 bits. You may still participate in the tournament without donating bits but you will not be eligible for the award pool. Every 500 bits donated to my channel will add 300 bits (Murph Tax) to the pool (viewers included).
 
