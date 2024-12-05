@@ -60,7 +60,7 @@ Your 3 highest scoring runs will be added together to get your cumulative score.
 
 ## Awards
 
-Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the Murphverse and will earn badges in the MurphMob discord. Additionally, there will be a bits "Pool". Award pool entrants are required to donate 500 bits to BigMurph619's channel to enter. Every 500 bits donated to my channel will add 300 bits (Murph Tax plus twitch tax) to the pool (viewers included) to be distributed out the Top 3 finishers. Example: if there are 10,000 bits donated, there will be 6,000 bits in the "Pool". Distributions will be 1st: 50%, 2nd: 30%, 3rd: 20%. Example: Pool of 6k... 1st: 3,000 bits, 2nd: 1800 bits, 3rd: 600 bits.
+Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the Murphverse and will earn badges in the MurphMob discord. Additionally, there will be a bits "Pool". Award pool entrants are required to donate 500 bits to BigMurph619's channel to enter. Every 500 bits donated to my channel (through tourney start date) will add 300 bits (Murph Tax plus twitch tax) to the pool (viewers included) to be distributed out the Top 3 finishers. Example: if there are 10,000 bits donated, there will be 6,000 bits in the "Pool". Distributions will be 1st: 50%, 2nd: 30%, 3rd: 20%. Example: Pool of 6k... 1st: 3,000 bits, 2nd: 1800 bits, 3rd: 600 bits.
 
 Goodluck Challenger.
 
