@@ -51,7 +51,7 @@ Your 3 highest scoring runs will be added together to get your cumulative score.
 |        Bonus Points       |
 | :-----------------------: |
 | Any Pokemon that is 420 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 420 BST it will resume receiving standard points.                |
-| Fastest mach bike time (3 tries each run). Each run that makes it to cycling road will give you 3 tries to record your best time on the Mach Bike. Must be done at %100 speed. No practice runs, no redos. As you update your scores, update your best OVERALL time (from all runs, not each run). At the end of the tourney, whoever has the fastest time (confirmed with a clip) will earn 3 bonus tourney points. |
+| Fastest mach bike time (3 tries each run). Each run that makes it to cycling road will give you 3 tries to record your best time on the Mach Bike. Must be done at %100 speed. No practice runs, no redos. As you update your scores, update your best OVERALL time (from all runs, not each run). At the end of the tourney, whoever has the fastest time (confirmed with a clip) will earn 1 bonus tourney point. |
 | Riddle me this: I spy with my little eye, a lone hiker that's gone awry. Clip it and send it to me on discord and you'll earn a point! All competitors are eligible for this 1 additional point to their TOTAL score. NO HINTS! |
 
      45 Standard Points available per run plus 4 overall bonus points available
